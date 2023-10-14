@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Qtl.Win32Windowing": {
+      "commandName": "Project",
+      "nativeDebugging": true,
+      "hotReloadEnabled": false
+    }
+  }
+}

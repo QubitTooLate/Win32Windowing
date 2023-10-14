@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qtl.Win32Windowing", "src\Qtl.Win32Windowing.csproj", "{F1AFD49E-004A-436B-8AFD-CC7AA97C713D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qtl.Samples.Console", "samples\Console\Qtl.Samples.Console.csproj", "{3963F8FA-69F1-496D-B65C-5ACBED13CA6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1AFD49E-004A-436B-8AFD-CC7AA97C713D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1AFD49E-004A-436B-8AFD-CC7AA97C713D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1AFD49E-004A-436B-8AFD-CC7AA97C713D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1AFD49E-004A-436B-8AFD-CC7AA97C713D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3963F8FA-69F1-496D-B65C-5ACBED13CA6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3963F8FA-69F1-496D-B65C-5ACBED13CA6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3963F8FA-69F1-496D-B65C-5ACBED13CA6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3963F8FA-69F1-496D-B65C-5ACBED13CA6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB423BD4-9DF7-4783-84A4-FBA50874E800}
+	EndGlobalSection
+EndGlobal
